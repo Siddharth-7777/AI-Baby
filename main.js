@@ -4,7 +4,7 @@ stat = "";
 
 function preload()
 {
-	song = loadSound("alert.mp3");
+	song = loadSound("alarm_alarm_alarm.mp3");
 }
 
 function setup() {
